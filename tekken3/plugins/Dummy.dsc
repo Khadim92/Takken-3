@@ -1,0 +1,1 @@
+Dummy Device|This device simulates empty bus|(C)1997-1998 Vision Thing|
